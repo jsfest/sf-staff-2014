@@ -6,10 +6,52 @@ Private repo for Staff communication and collaboration.
 
 ## Dates
 
-* March 6-7th IndieWebCamp (Tentative)
-* March 7th DHTMLConf
-* March 8th NodeCopter (Tentative)
-* March 8th WebRTCCamp (Tentative)
-* March 9th Main Event: Evolution of Experience
-* March 10th Main Event: Scaling Up and Down
-* March 11th - 15th: Workshops (Tentative)
+Nothing is schedule before the 6th yet but we can bleed in to earlier dates if we want.
+
+### March 6th
+
+* IndieWebCamp Day1 (Tentative)
+
+### March 7th
+
+* IndieWebCamp Day2 (Tentative)
+* 3pm - 7pm DHTMLConf
+
+### March 8th
+
+* NodeCopter (Tentative)
+* WebRTCCamp (Tentative)
+* Distillery Tour (Tentative)
+* 7pm Silent Disco (Tentative)
+
+### March 9th
+
+* 9am - 6pm Main Event: Evolution of Experience
+
+### March 10th
+
+* 9am - 6pm Main Event: Scaling Up and Down
+
+### March 11th
+
+* Workshops (Tentative)
+
+### March 12th
+
+* Workshops (Tentative)
+
+### March 13th
+
+* Workshops (Tentative)
+
+### March 14th
+
+* Workshops (Tentative)
+
+### March 15th
+
+* Workshops (Tentative)
+
+### March 16th
+
+* Workshops (Tentative)
