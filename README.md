@@ -11,18 +11,22 @@ Nothing is schedule before the 6th yet but we can bleed in to earlier dates if w
 ### March 6th
 
 * IndieWebCamp Day1 (Tentative)
+* 9pm NodeUp Live (Tentative)
+* CouchCamp (Tentative)
 
 ### March 7th
 
 * IndieWebCamp Day2 (Tentative)
 * 3pm - 7pm DHTMLConf
+* 9pm TC39 Town Hall (Tentative)
+* NodeBaseCamp (Tentative)
 
 ### March 8th
 
 * NodeCopter (Tentative)
 * WebRTCCamp (Tentative)
 * Distillery Tour (Tentative)
-* 7pm Silent Disco (Tentative)
+* 8pm Silent Disco (Tentative)
 
 ### March 9th
 
