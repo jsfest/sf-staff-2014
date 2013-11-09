@@ -28,8 +28,9 @@ Nothing is schedule before the 6th yet but we can bleed in to earlier dates if w
 ### March 6th
 
 * IndieWebCamp Day1 (Tentative)
-* 9pm NodeUp Live (Tentative)
+* FarmJS (Tentative)
 * CouchCamp (Tentative)
+* 9pm NodeUp Live (Tentative)
 
 ### March 7th
 
@@ -40,6 +41,7 @@ Nothing is schedule before the 6th yet but we can bleed in to earlier dates if w
 
 ### March 8th
 
+* BackStrap (Tentative)
 * NodeCopter (Tentative)
 * WebRTCCamp (Tentative)
 * Distillery Tour (Tentative)
@@ -48,6 +50,7 @@ Nothing is schedule before the 6th yet but we can bleed in to earlier dates if w
 ### March 9th
 
 * 9am - 6pm Main Event: Evolution of Experience
+* ImproveJS (Tentative)
 
 ### March 10th
 
