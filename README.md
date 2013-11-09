@@ -50,7 +50,7 @@ Nothing is schedule before the 6th yet but we can bleed in to earlier dates if w
 ### March 9th
 
 * 9am - 6pm Main Event: Evolution of Experience
-* ImproveJS (Tentative)
+* ImprovJS (Tentative)
 
 ### March 10th
 
